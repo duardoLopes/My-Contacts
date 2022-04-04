@@ -1,3 +1,3 @@
 # My-Contacts
 
-API feita no curso JStack do <a href="https://www.instagram.com/imateus.silva/">Mateu Silva</a>
+API desenvolvida no curso JStack do <a href="https://www.instagram.com/imateus.silva/">Mateus Silva</a>
